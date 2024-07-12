@@ -1,0 +1,13 @@
+Django
+mysql-connector
+virtualenv
+dj-database-url
+gunicorn
+psycopg2
+whitenoise
+Pillow
+requests
+face_recognition 
+opencv-python
+openpyxl
+pandas
